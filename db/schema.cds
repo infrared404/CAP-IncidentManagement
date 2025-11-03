@@ -18,7 +18,7 @@ conversation  : Composition of many {
 }
 
 /**
-* Customers entitled to create support Incidents.
+* Customers entitled to create support Incidents..
 */
 entity Customers : managed { 
 key ID        : String;
